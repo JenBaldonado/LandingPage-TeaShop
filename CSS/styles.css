@@ -7,7 +7,7 @@ h1, h2, p {
     text-align: center;
 }
 
-div {
+.teamMenu {
     width: 80%;
     background: orange;
     margin-left: auto;

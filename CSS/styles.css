@@ -25,13 +25,13 @@ h1, h2, p {
     display: inline-block;   
 }
 
-.teaFlavor {
+.teaFlavor, .teaCollection {
     background-color: red;
     text-align:left;
     width: 75%;
 }
 
-.teaPrice {
+.teaPrice, .collectionPrice {
     background-color: blue;
     text-align: right;
     width: 25%;

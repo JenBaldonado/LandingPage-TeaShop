@@ -14,9 +14,10 @@ h1, h2, p {
 
 .teaMenu {
     width: 80%;
-    background: orange;
+    background: rgba(228, 202, 168, 0.406);
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 .teaItem p {

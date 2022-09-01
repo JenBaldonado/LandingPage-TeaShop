@@ -18,6 +18,13 @@ h1, h2, p {
     margin-right: auto;
 }
 
+.teaItem {
+    background-color: red;
+    display: inline-block;
+    
+    
+}
+
 .teaFlavor {
     text-align:left;
 }
@@ -25,3 +32,4 @@ h1, h2, p {
 .teaPrice {
     text-align: right;
 }
+

@@ -25,11 +25,11 @@ h1, h2, p {
 
 .teaFlavor {
     text-align:left;
-    width: 50%;
+    width: 75%;
 }
 
 .teaPrice {
     text-align: right;
-    width: 50%;
+    width: 25%;
 }
 

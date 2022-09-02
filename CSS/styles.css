@@ -12,6 +12,7 @@ h1, h2, p {
     text-align: center;
 }
 
+<<<<<<< HEAD
 h1 {
     font-size: 40px;
 }
@@ -25,16 +26,22 @@ h2 {
 }
 
 .teaMenu {
+=======
+.teaMenu  {
+    max-width: 500px;
+>>>>>>> a550c658eb8fc35febc5a0c298e8ece809c846f3
     width: 80%;
     background: rgba(228, 202, 168, 0.406);
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
     
 }
 
 .teaItem p {
     /*background-color: red;*/
-    display: inline-block;   
+    display: inline-block; 
+    font-weight: 400;  
 }
 
 .teaFlavor, .teaCollection {

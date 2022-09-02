@@ -12,7 +12,8 @@ h1, h2, p {
     text-align: center;
 }
 
-.teaMenu,  {
+.teaMenu  {
+    max-width: 500px;
     width: 80%;
     background: rgba(228, 202, 168, 0.406);
     margin-left: auto;
@@ -23,7 +24,8 @@ h1, h2, p {
 
 .teaItem p {
     /*background-color: red;*/
-    display: inline-block;   
+    display: inline-block; 
+    font-weight: 400;  
 }
 
 .teaFlavor, .teaCollection {

@@ -12,11 +12,12 @@ h1, h2, p {
     text-align: center;
 }
 
-.teaMenu {
+.teaMenu,  {
     width: 80%;
     background: rgba(228, 202, 168, 0.406);
     margin-left: auto;
     margin-right: auto;
+   
     
 }
 
